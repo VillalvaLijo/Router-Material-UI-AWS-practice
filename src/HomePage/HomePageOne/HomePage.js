@@ -15,11 +15,11 @@ import {AppBar,
 import MenuIcon from '@material-ui/icons/Menu';
 
 import HomePageNavBar from './HomePageNavBar/HomePageNaveBar';
-import PageOne from '../PageOne/PageOne';
-import PageTwo from '../PageTwoTree/PageTwo/PageTwo';
-import PageThree from '../PageThree/PageThree';
-import PageFour from '../PageFour/PageFour';
-import PageFive from '../PageFive/PageFive';
+import PageOne from '../HomePageOneNestedPages/PageOne/PageOne';
+import PageTwo from '../HomePageOneNestedPages/PageTwoTree/PageTwo/PageTwo';
+import PageThree from '../HomePageOneNestedPages/PageThree/PageThree';
+import PageFour from '../HomePageOneNestedPages/PageFour/PageFour';
+import PageFive from '../HomePageOneNestedPages/PageFive/PageFive';
 
 // const useStyles = makeStyles((theme) => ({
 //     root: {

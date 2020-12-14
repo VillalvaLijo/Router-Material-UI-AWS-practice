@@ -16,7 +16,7 @@ import MenuIcon from '@material-ui/icons/Menu';
 
 import HomePageNavBar from './HomePageNavBar/HomePageNaveBar';
 import PageOne from '../PageOne/PageOne';
-import PageTwo from '../PageTwo/PageTwo';
+import PageTwo from '../PageTwoTree/PageTwo/PageTwo';
 import PageThree from '../PageThree/PageThree';
 import PageFour from '../PageFour/PageFour';
 import PageFive from '../PageFive/PageFive';
